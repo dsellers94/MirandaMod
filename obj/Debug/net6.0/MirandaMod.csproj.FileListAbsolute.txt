@@ -1,0 +1,8 @@
+C:\Users\Daniel Sellers\Documents\StardewMods\MirandaMod\bin\Debug\net6.0\MirandaMod.deps.json
+C:\Users\Daniel Sellers\Documents\StardewMods\MirandaMod\bin\Debug\net6.0\MirandaMod.dll
+C:\Users\Daniel Sellers\Documents\StardewMods\MirandaMod\obj\Debug\net6.0\MirandaMod.csproj.AssemblyReference.cache
+C:\Users\Daniel Sellers\Documents\StardewMods\MirandaMod\obj\Debug\net6.0\MirandaMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Sellers\Documents\StardewMods\MirandaMod\obj\Debug\net6.0\MirandaMod.AssemblyInfoInputs.cache
+C:\Users\Daniel Sellers\Documents\StardewMods\MirandaMod\obj\Debug\net6.0\MirandaMod.AssemblyInfo.cs
+C:\Users\Daniel Sellers\Documents\StardewMods\MirandaMod\obj\Debug\net6.0\MirandaMod.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Sellers\Documents\StardewMods\MirandaMod\obj\Debug\net6.0\MirandaMod.dll

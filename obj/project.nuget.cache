@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RjA5T9fnf2H2j8rOigEXEBBjzG/ZBI2ZlO+oJeHnY79Gg0rnRH0g6hLQV2yNBxRQ9ch/vcIOAlp7fMSzX9PcIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel Sellers\\Documents\\StardewMods\\MirandaMod\\MirandaMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel Sellers\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.4.0\\pathoschild.stardew.modbuildconfig.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "Name": "Miranda Mod",
+  "Author": "ApplePotato",
+  "Version": "0.1",
+  "Description": "A Stardew Valley Mod just for Miranda",
+  "UniqueID": "ApplePotato.MirandaMod",
+  "EntryDll": "MirandaMod.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
