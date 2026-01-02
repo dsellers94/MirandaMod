@@ -56,7 +56,7 @@ namespace MirandaMod
                 return;
 
             // Apply Speed Buff
-            if (e.Button == SButton.ControllerB || e.Button == SButton.B)
+            if (e.Button == SButton.ControllerA || e.Button == SButton.B)
             {
                 Buff SpeedBuff = CreateSpeedBuff();
                 Game1.player.applyBuff(SpeedBuff);
@@ -73,7 +73,7 @@ namespace MirandaMod
                 return;
 
             // Apply Speed Buff
-            if (e.Button == SButton.ControllerB || e.Button == SButton.B)
+            if (e.Button == SButton.ControllerA || e.Button == SButton.B)
             {
                 Game1.player.buffs.Remove("MirandaMod.ZoomZoom");
             }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MirandaMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af53c78bcaa0960d5cd8e2bfe4f5bca04bf52290")]
 [assembly: System.Reflection.AssemblyProductAttribute("MirandaMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MirandaMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
